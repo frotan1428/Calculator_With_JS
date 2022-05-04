@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
  <meta charset="utf-8"a>
- <title> Simple Calculator using HTML, CSS and JavaScript </title>
+<!--  <title> Simple Calculator using HTML, CSS and JavaScript </title> -->
  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -40,6 +40,6 @@
     <td> <input class = "button" type = "button" value = "*" onclick = "display('*')" /> </td>
     </tr>
     </table>
-<script type="text/javascript" src="index.js"></script>
+<!-- <script type="text/javascript" src="index.js"></script> -->
 </body>
 </html>
